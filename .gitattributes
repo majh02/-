@@ -1,2 +1,13 @@
 3)[[:space:]]AI모델링.ipynb filter=lfs diff=lfs merge=lfs -text
 2)[[:space:]]데이터[[:space:]]전처리.ipynb filter=lfs diff=lfs merge=lfs -text
+AI[[:space:]]부산경남8반[[:space:]]마지혜_분석데이터[[:space:]]결과.ipynb filter=lfs diff=lfs merge=lfs -text
+bfg-1.14.0.jar filter=lfs diff=lfs merge=lfs -text
+model_ARIMA.pkl filter=lfs diff=lfs merge=lfs -text
+model_SARIMA.pkl filter=lfs diff=lfs merge=lfs -text
+model_SARIMAX.pkl filter=lfs diff=lfs merge=lfs -text
+model_rf.pkl filter=lfs diff=lfs merge=lfs -text
+model_stacking.pkl filter=lfs diff=lfs merge=lfs -text
+model_stacking2.pkl filter=lfs diff=lfs merge=lfs -text
+test_data.csv filter=lfs diff=lfs merge=lfs -text
+train_data.csv filter=lfs diff=lfs merge=lfs -text
+x_train.csv filter=lfs diff=lfs merge=lfs -text
